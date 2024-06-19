@@ -1,7 +1,7 @@
 
 try:
 
-    print(number)
+    print("number" )
 except:
     print("An error occurred")
 
