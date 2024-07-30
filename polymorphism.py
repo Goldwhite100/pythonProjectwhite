@@ -12,7 +12,7 @@ class Square:
         print("Drawing a square")
 
 sh = Shape
-sh.draw(self)
+sh.draw()
 
 rec = Rectangle
 rec.draw()
